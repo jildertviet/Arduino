@@ -13,6 +13,6 @@ Teruggeleverd:	1111.36kWh
 Gas:		2850.03m3
 
 Vandaag:
-Verbruikt:	80.04kWh
+Verbruikt:	80.04kWh // <-- This isn't correct, some there's something going on in the day-to-day comparison. Maybe because I unplugged it?
 Teruggeleverd:	155.10kWh
 Gas:		14.20m3
