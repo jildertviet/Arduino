@@ -2,4 +2,17 @@ All credits to https://github.com/jantenhove/P1-Meter-ESP8266/
 
 I use this sketch to enable a TCP server on my meter. 
 Read values with netcat, from Terminal:
-nc slimmeMeterESP32.local 8888
+`nc slimmeMeterESP32.local 8888`
+And receive like:
+
+Time:		12:35:21
+Verbruik:	0W
+Leveren:	1053W
+Verbruikt:	2520.95kWh
+Teruggeleverd:	1111.36kWh
+Gas:		2850.03m3
+
+Vandaag:
+Verbruikt:	80.04kWh
+Teruggeleverd:	155.10kWh
+Gas:		14.20m3
